@@ -66,6 +66,7 @@
   publisher: Current Opinion in Immunology
   date: '2019-04-01'
   link: https://doi.org/gq544z
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0952791518300839-gr2.jpg
   _cache: 2609e1012a92dcf4bdac932ad9131ebcf4e48d91a4796e6bc5ce162fb94432b1
 - id: doi:10.1038/s41590-018-0280-2
   title: "Regulatory T cells mediate specific suppression by depleting peptide\u2013\
@@ -84,6 +85,7 @@
   - Ethan M. Shevach
   publisher: Nature Immunology
   date: '2019-01-14'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0280-2/MediaObjects/41590_2018_280_Fig4_HTML.png?as=webp
   link: https://doi.org/gpwjvp
   _cache: 0cd457aadadc913ca6f917477852e5c6a6c6db0416cd9d6880e4f837207432a8
 - id: doi:10.1038/s41590-018-0156-5
@@ -107,6 +109,7 @@
   - Susan K. Pierce
   publisher: Nature Immunology
   date: '2018-07-09'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0156-5/MediaObjects/41590_2018_156_Fig1_HTML.jpg?as=webp
   link: https://doi.org/gdzhfc
   _cache: 0d5a6d3550712a925862b1d02f3130bf2d81e31b6b51029b6d44658c51d991ea
 - id: doi:10.1038/s41590-018-0052-z
@@ -129,6 +132,7 @@
   - Louis H. Miller
   - Susan K. Pierce
   publisher: Nature Immunology
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41590-018-0052-z/MediaObjects/41590_2018_52_Fig3_HTML.jpg?as=webp
   date: '2018-02-23'
   link: https://doi.org/gc7xs3
   _cache: 5500d6d4d1fd859222face28107ed079eff6a79db8a4b8ee979b23a781a071b5
@@ -150,6 +154,7 @@
   - Susan K. Pierce
   publisher: The Journal of Immunology
   date: '2017-06-26'
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/199/3/10.4049_jimmunol.1700348/4/m_ji1700348f4.jpeg?Expires=1682018272&Signature=eMrQYdYqZa3dYonxIAC4uJ-iKDH67l5GuFCupWzJ-2KxsQgmHBnS74E2FqmIURVYVE7gPwAgsqN3V6E-b86YTXbD5-pMRukaQMv1q3yso~ZCTtNTP9ffDXbGiEZKydhleZ1ArC0GABAUHSbjxXardVrpb9~lju2HszBTa0utcJkrUDjESP47wCmDjqxHRcxvXsAkl1pAV9p8B9WY8bqgBEK34DiAMI9utB4Pp~iZLdgP5zkJNMYQI-LjVKQ3ZcoZNqdW4yO~-wmzaD5H6OexZz0MeJ5He5u7gvqEdcF6wRoTUXmA8y0Y-RdaM8cU-FRkadx730JVpk~NnlKclv5GCw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   link: https://doi.org/gbq8wj
   _cache: 811d36e549d5da8dbde1ea7e1bf563d5134ba813aac8928a1c2c4a946d790de4
 - id: doi:10.1099/jgv.0.000335
@@ -162,6 +167,7 @@
   - Deborah Hatherley
   publisher: Journal of General Virology
   date: '2016-01-01'
+  image: https://www.microbiologyresearch.org/docserver/ahah/fulltext/jgv/97/1/jgv000335-f1_thmb.gif
   link: https://doi.org/f8dsvb
   _cache: cddae2308868e44696703e0ccfb4f659d352211a461e62789db8cc546ee40ad2
 - id: doi:10.4049/jimmunol.1600491
@@ -189,6 +195,7 @@
   - Susan K. Pierce
   publisher: The Journal of Immunology
   date: '2016-10-19'
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/197/10/10.4049_jimmunol.1600491/2/m_ji_1600491_f4.jpeg?Expires=1682454980&Signature=bQURc0sTMfgqqQ3A~ioSpc4J8GgIif0ajYhjDkhnNkNOwHSfHF~e8BHFYkv1DkstKED4VANnFIOPMWs3kPxJgwDXEKe5hzpoFESSyJltJ7oCcJarkEkWMfTlXJgUJKvH-sCeduL102zsRGHy2E--8x7bxJ7QjXBFxZkgO1t4Y6P3Gif9qhQ8rmAum3rpjKpklUEVvFRMPw6VHomJp50UCgVlEBB5VUsYvDWoZCItcTUHjoS7IUNXs62MC7jHZgJkj-vAxEFDLEXTpNiHFQYqF8K0IFEhCp4Ee1PX3BuNeHEurUCSM8aRJUHI0Lg~Pgd5SGFMpsd85go4NQtjqA3kNQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   link: https://doi.org/f9fbw4
   _cache: 15a62a741fa1813b7d4d83fbb980abcafbffba553ecb0328ab351b784518d4c2
 - id: doi:10.4049/jimmunol.1600727
@@ -202,6 +209,7 @@
   - Munir Akkaya
   publisher: The Journal of Immunology
   date: '2016-07-20'
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/197/5/10.4049_jimmunol.1600727/2/m_ji_1600727_f1.jpeg?Expires=1681259540&Signature=FcbTe~3rYHoA~E0K4szXFCUYay-4e7Sh9TrP7zn74f14sm8ZqYDDifPhixkdBEWRqEFWr~92wyAK~c5UWk8bBE6sH72XtXHrIvjA3d7BzC22yKXdMUs4jMpEjSJMWcnXJeC2nSeUSJzEUs26z3TcjtSLc03tqOQMfEDW7qeK9yrO0-hFpviJ1Bbr1udBAi78tVazrj1a-HLYIiXHFkkWbFDaGRBWZqjiIfjuPaZbJvHur-YuRSks6pZn-hg5sw8-RHgUhuKyG~adNeuXPxugj5i1fxOckiedwcCU8sl6RQdZFIlaV~aZtA6SEIfTaWjuR9gR~MkwB7Ae1Vdrf4Iouw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   link: https://doi.org/f86z79
   _cache: c1d8c6ae83c7037dec2dd8becf9cf13d235f1143f9b215d7c9eab5b75d6ba605
 - id: doi:10.1016/j.virol.2015.10.026
@@ -214,6 +222,7 @@
   - A. Neil Barclay
   publisher: Virology
   date: '2016-01-01'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0042682215004547-gr1.jpg
   link: https://doi.org/f8bdhr
   _cache: 3e2d2e0d26d1a2e1f1a07e1edcfd0743c356da3b5639779c493d99716a52f8b0
 - id: doi:10.1128/mBio.00725-15
@@ -234,6 +243,7 @@
   - Susan K. Pierce
   publisher: mBio
   date: '2015-07-01'
+  image: https://journals.asm.org/cms/10.1128/mBio.00725-15/asset/150b5834-938f-4a88-8422-120e626dd148/assets/graphic/mbo0031523470002.jpeg
   link: https://doi.org/gq5445
   _cache: 2c24e0fb4c3060100e7355e6504b269360cc7df0b512f353fd4755cadf7aeb5a
 - id: doi:10.1073/pnas.1516544112
@@ -256,6 +266,7 @@
   - Susan K. Pierce
   publisher: Proceedings of the National Academy of Sciences
   date: '2015-10-05'
+  image: https://www.pnas.org/cms/10.1073/pnas.1516544112/asset/8a9993b4-2447-4432-98e2-85119cdceece/assets/graphic/pnas.1516544112fig02.jpeg
   link: https://doi.org/f7vrmk
   _cache: df9769151681c6df3394f395881b7e924cc732bac33694734bd19bcee5398dc9
 - id: doi:10.1002/eji.201242896
@@ -266,6 +277,7 @@
   publisher: European Journal of Immunology
   date: '2013-02-01'
   link: https://doi.org/f2dz5k
+  image: https://onlinelibrary.wiley.com/cms/asset/66d31137-c1f1-4f48-99b5-48c9714a96af/eji2537-fig-0001-m.png
   _cache: 0cc7606a38be09fc8f0388b51714930b02f4e415f5556b23061eeaef21f17b0d
 - id: doi:10.1007/s00251-009-0415-6
   title: Heterogeneity in the CD200R paired receptor family
@@ -274,6 +286,7 @@
   - A. Neil Barclay
   publisher: Immunogenetics
   date: '2009-12-05'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00251-009-0415-6/MediaObjects/251_2009_415_Fig1_HTML.gif?as=webp
   link: https://doi.org/c226ff
   _cache: 2236015807581567f80c0446f00446ea4c0ba45ae0ead22aaba91936d0e21584
 - id: doi:10.1007/s10616-009-9241-9
@@ -288,6 +301,7 @@
   - Dicle Guc
   publisher: Cytotechnology
   date: '2009-11-01'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10616-009-9241-9/MediaObjects/10616_2009_9241_Fig3_HTML.gif?as=webp
   link: https://doi.org/d2tx8q
   _cache: 96ea6c4504e9cd08ca696ade0e191d63e1dace7f928d6eba3343b708c1ca1af6
 - id: doi:10.1016/j.cellimm.2020.104160
@@ -297,6 +311,7 @@
   - Ethan M. Shevach
   publisher: Cellular Immunology
   date: '2020-09-01'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0008874920303208-gr1.jpg
   link: https://doi.org/gq6bbm
   _cache: 8520e0e3f2c81993a2a49b42d652008f5de512dbaaa575ca620fa8cebbccfd87
 - id: doi:10.4049/jimmunol.1800753
@@ -319,6 +334,7 @@
   - Munir Akkaya
   publisher: The Journal of Immunology
   date: '2018-10-29'
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/201/11/10.4049_jimmunol.1800753/2/m_ji1800753f5.jpeg?Expires=1681481209&Signature=RYJqRF4TAt~ZRsccUsJYVojHuC5nNVbrSH6U4-X30UuY0d9m43bUZpqlDUFXDjLBnh6Oj8CpU23byyBzg76jhcEHGEJpgs2mlcSM-MUaM-Hbd3483cGrvfQeVv8zQuE~WfU0XGbYR5kqOmb0obMnrsLfbCVEEYUVyz6R5KuIO~6IoaEugGgbfyIbW-J85WnizXzAFwcxP3qwRjzzjBToYs1YREkA2Av3lZFXNXPqRqeQJGgo3zyhjy6Ym0lCx0QqCe5HRzkVeg9yAh1azTH1betEl-nQkCvoHuBNh3~ylJvYax5agG6S77rScPFGn9bO2MhpYQNdbg24y4U6zy2oJw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   link: https://doi.org/gfp4kx
   _cache: 87c048d1853f6056231d6b855e1bb487ba9120ec416cb63c670695b8a47992b6
 - id: doi:10.1002/eji.201747113
@@ -336,6 +352,7 @@
   - Susan K. Pierce
   publisher: European Journal of Immunology
   date: '2017-08-21'
+  image: https://onlinelibrary.wiley.com/cms/asset/cacd2c57-d6fa-43ed-a11d-25b2750ce058/eji4015-fig-0003-m.png
   link: https://doi.org/gq5442
   _cache: 38708a3ce48368e192e5e443627fd72ccd2249272bc4e8a74710192ab9326b06
 - id: doi:10.1016/j.jim.2016.11.013
@@ -351,6 +368,7 @@
   - Munir Akkaya
   publisher: Journal of Immunological Methods
   date: '2017-02-01'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022175916302964-gr1.jpg
   link: https://doi.org/gq5443
   _cache: 695f1dadb9f440441f58cec488d14ac10ff09f602665f5c6fb13ac0aac8624d3
 - id: doi:10.3791/54918
@@ -364,6 +382,7 @@
   - Munir Akkaya
   publisher: Journal of Visualized Experiments
   date: '2016-11-21'
+  image: https://cloudfront.jove.com/files/ftp_upload/54918/54918fig1.jpg
   link: https://doi.org/gqpxk7
   _cache: 5c13587bb6645983c530607f668eb2028575dfc639a3d84d9f4c37eedb659c26
 - id: doi:10.1371/journal.pone.0063325
@@ -375,6 +394,7 @@
   - A. Neil Barclay
   publisher: PLoS ONE
   date: '2013-05-14'
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0063325.g001
   link: https://doi.org/f4w38t
   _cache: 016b15c6110fc407a199d4dfa477abb606f0cf856bf82f1fc474fc594fd5dd6f
 - id: doi:10.3389/FIMMU.2022.940052
@@ -384,6 +404,7 @@
   - Billur Akkaya
   publisher: Frontiers in Immunology
   date: '2022-09-30'
+  image: https://www.frontiersin.org/files/Articles/940052/fimmu-13-940052-HTML-r1/image_m/fimmu-13-940052-g003.jpg
   link: https://doi.org/gq6hgr
   _cache: 3e5dbac7bb6508a66a4754bf611cf827246416c126afb93bb48e6eac178625c6
 - id: doi:10.1007/978-1-0716-1402-0_13
@@ -396,6 +417,7 @@
   - Ryan Kissinger
   publisher: Confocal Microscopy
   date: '2021-01-01'
+  image: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_13/MediaObjects/475400_1_En_13_Fig3_HTML.png?as=webp
   link: https://doi.org/gq6hgs
   _cache: d91567fcbb4f7ff5ffbca75588687158fd25abe6633e202886b9a153f5dd29e7
   id: doi:10.1128/mbio.03391-22
