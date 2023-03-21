@@ -6,10 +6,11 @@ member: harrison
 ---
 
 "Cerebral Malaria Is Regulated by Host-Mediated Changes in <i>Plasmodium</i> Gene Expression", the newest article from the Akkaya Lab, is out now! One of the big takeaways from the article is how genetic backgrounds of the host of a malaria infection can potentially change the outcomes of the disease progression. This article outlines potential new pathways for malaria vaccines and therapy approaches.
+
 {%
   include gallery.html
 
-  image1="https://journals.asm.org/cms/10.1128/mbio.03391-22/asset/3995fefe-0d0b-4767-8cb6-c6bbcee09975/assets/images/medium/mbio.03391-22-f004.gif"
+  image1="/images/blog/malaria.webp"
   link1="https://doi.org/10.1128/mbio.03391-22"
   tooltip1="Read the Article!"
 %}
