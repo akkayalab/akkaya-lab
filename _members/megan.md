@@ -1,7 +1,7 @@
 ---
 name: Megan MacCartney
 image: images/members/megan.webp
-role: undergrad
+role: fmr
 links:
     linkedin: megan-maccartney-b087bb1b9
     email: maccartney.7@osu.edu

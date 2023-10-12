@@ -1,7 +1,7 @@
 ---
 name: Harrison Thow
 image: images/members/harrison.webp
-role: undergrad
+role: fmr
 links:
     linkedin: harrison-g-thow
     email: thow.3@osu.edu

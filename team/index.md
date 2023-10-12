@@ -58,8 +58,13 @@ Akkaya Lab studies adaptive immunity and immunoregulation in the context of auto
 <p style="text-align:center"><i>Mustafa Kemal Ataturk</i></p>
 
 
-
-
+# <i class="fas fa-users"></i>Former Researchers
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: fmr"
+%}
 
 {% include section.html %}
 
