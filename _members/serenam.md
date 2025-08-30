@@ -1,7 +1,7 @@
 ---
 name: Serena Mehta
 image: images/members/serenam.webp
-role: undergrad
+role: fmr
 links:
     email: mehta.513@osu.edu
 ---

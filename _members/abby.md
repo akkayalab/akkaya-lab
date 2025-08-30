@@ -1,7 +1,7 @@
 ---
 name: Abby Kraynak
 image: images/members/abby.webp
-role: undergrad
+role: fmr
 links:
     linkedin: abby-kraynak
     email: kraynak.23@osu.edu

@@ -1,7 +1,7 @@
 ---
 name: Esin Bayralı Ulker
 image: images/members/esin.webp
-role: phd
+role: fmr
 aliases:
   - E. Ulker
   - E Ulker

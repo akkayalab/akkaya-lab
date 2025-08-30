@@ -1,7 +1,7 @@
 ---
 name: Selin Ustel
 image: images/members/selin.webp
-role: undergrad
+role: fmr
 links:
     linkedin: selin-ustel-b64a26b5
 ---

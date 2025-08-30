@@ -1,7 +1,7 @@
 ---
 name: Serena Ozabrahamyan
 image: images/members/serenao.webp
-role: phd
+role: fmr
 links:
     linkedin: serenaoz
     twitter: sozabrahamyan

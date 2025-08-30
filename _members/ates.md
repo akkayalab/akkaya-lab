@@ -1,7 +1,7 @@
 ---
 name: Ateş Kutay Tenekeci
 image: images/members/ates.webp
-role: mdphd
+role: fmr
 links:
     linkedin: ates-kutay-tenekeci-733a7316b
     email: atesktenekeci@gmail.com

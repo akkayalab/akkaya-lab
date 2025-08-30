@@ -1,7 +1,7 @@
 ---
 name: Sahitya Jammula
 image: images/members/sahitya.webp
-role: undergrad
+role: fmr
 links:
     email: jammula.5@osu.edu
 ---

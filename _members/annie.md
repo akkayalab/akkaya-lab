@@ -1,7 +1,7 @@
 ---
 name: Annie Carney
 image: images/members/annie.webp
-role: undergrad
+role: fmr
 links:
     linkedin: annie-carney-5a7487234
     email: carney.270@osu.edu 

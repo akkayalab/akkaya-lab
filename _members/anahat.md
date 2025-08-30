@@ -1,7 +1,7 @@
 ---
 name: Anahat Dhillon
 image: images/members/anahat.webp
-role: undergrad
+role: fmr
 links:
     email: dhillon.92@osu.edu
 ---
