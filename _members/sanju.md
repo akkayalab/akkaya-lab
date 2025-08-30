@@ -1,7 +1,7 @@
 ---
 name: Sanju Gudla
 image: images/members/sanju.webp
-role: highschool
+role: fmr
 links:
     linkedin: sanjusha-gudla-10b9901b7
 ---
