@@ -1,7 +1,7 @@
 ---
 name: Dilara Alpay
 image: images/members/dilara.jpeg
-role: Undergrad
+role: undergrad
 links:
     linkedin: dilara-alpay-5244a52ab
     email: alpay.4@buckeyemail.osu.edu
