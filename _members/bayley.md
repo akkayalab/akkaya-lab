@@ -1,7 +1,7 @@
 ---
 name: Bayley McRitchie
 image: images/members/bayley.webp
-role: phd
+role: fmr
 links:
     linkedin: bayley-mcritchie-6a60b61b0
     email: bayley.mcritchie@osumc.edu
