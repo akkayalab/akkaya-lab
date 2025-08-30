@@ -5,7 +5,7 @@ carousels:
     - image: /images/carousel/akkaya.webp
     - image: /images/carousel/christmas.webp
     - image: /images/carousel/wex.webp
-    - image: /images/carousel/lab.webp
+    - image: /images/carousel/labNEW.webp
     - image: /images/carousel/dodd.webp
 ---
 
